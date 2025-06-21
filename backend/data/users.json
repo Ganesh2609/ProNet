@@ -1,0 +1,388 @@
+[
+  {
+    "id": "1",
+    "email": "john.doe@example.com",
+    "password": "hashed_password",
+    "firstName": "John",
+    "lastName": "Doe",
+    "headline": "Software Engineer at Tech Solutions Inc.",
+    "about": "Passionate software engineer with over 5 years of experience in full-stack development. I specialize in building scalable web applications using modern JavaScript frameworks and RESTful APIs.",
+    "profilePicture": "https://randomuser.me/api/portraits/men/1.jpg",
+    "location": {
+      "country": "United States",
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "experience": [
+      {
+        "id": "exp1",
+        "title": "Senior Software Engineer",
+        "companyName": "Tech Solutions Inc.",
+        "employmentType": "Full-time",
+        "location": "San Francisco, CA",
+        "startDate": "2021-06-01",
+        "endDate": null,
+        "currentlyWorking": true,
+        "description": "Leading the development of enterprise-level web applications using React, Node.js, and AWS."
+      },
+      {
+        "id": "exp2",
+        "title": "Software Developer",
+        "companyName": "WebDev Studios",
+        "employmentType": "Full-time",
+        "location": "San Francisco, CA",
+        "startDate": "2018-03-01",
+        "endDate": "2021-05-31",
+        "currentlyWorking": false,
+        "description": "Developed and maintained various client websites and web applications using JavaScript frameworks."
+      }
+    ],
+    "education": [
+      {
+        "id": "edu1",
+        "school": "University of California, Berkeley",
+        "degree": "Bachelor of Science",
+        "fieldOfStudy": "Computer Science",
+        "startDate": "2014-09-01",
+        "endDate": "2018-05-31",
+        "description": "Graduated with honors. Specialized in software engineering and artificial intelligence."
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Python",
+      "AWS",
+      "RESTful APIs",
+      "Git",
+      "Agile Methodologies",
+      "SQL",
+      "MongoDB"
+    ],
+    "connections": [
+      {
+        "userId": "2",
+        "status": "connected",
+        "createdAt": 1638360000
+      },
+      {
+        "userId": "3",
+        "status": "connected",
+        "createdAt": 1638360000
+      },
+      {
+        "userId": "4",
+        "status": "pending",
+        "createdAt": 1746884269
+      }
+    ],
+    "createdAt": 1638360000,
+    "updatedAt": 1638360000
+  },
+  {
+    "id": "2",
+    "email": "jane.smith@example.com",
+    "password": "hashed_password",
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "headline": "Product Manager at Innovate Labs",
+    "about": "Strategic product manager with a passion for user-centered design and agile methodologies. I have a track record of successfully launching products that solve real customer problems.",
+    "profilePicture": "https://randomuser.me/api/portraits/women/1.jpg",
+    "location": {
+      "country": "United States",
+      "city": "New York",
+      "state": "NY"
+    },
+    "experience": [
+      {
+        "id": "exp1",
+        "title": "Senior Product Manager",
+        "companyName": "Innovate Labs",
+        "employmentType": "Full-time",
+        "location": "New York, NY",
+        "startDate": "2020-01-01",
+        "endDate": null,
+        "currentlyWorking": true,
+        "description": "Leading product strategy and development for an AI-powered analytics platform."
+      },
+      {
+        "id": "exp2",
+        "title": "Product Manager",
+        "companyName": "Tech Startup Inc.",
+        "employmentType": "Full-time",
+        "location": "Boston, MA",
+        "startDate": "2017-06-01",
+        "endDate": "2019-12-31",
+        "currentlyWorking": false,
+        "description": "Managed the development of a SaaS platform for small businesses."
+      }
+    ],
+    "education": [
+      {
+        "id": "edu1",
+        "school": "Harvard University",
+        "degree": "Master of Business Administration",
+        "fieldOfStudy": "Business",
+        "startDate": "2015-09-01",
+        "endDate": "2017-05-31",
+        "description": "Focused on technology management and entrepreneurship."
+      },
+      {
+        "id": "edu2",
+        "school": "MIT",
+        "degree": "Bachelor of Science",
+        "fieldOfStudy": "Computer Science",
+        "startDate": "2011-09-01",
+        "endDate": "2015-05-31",
+        "description": "Specialized in human-computer interaction and user experience design."
+      }
+    ],
+    "skills": [
+      "Product Management",
+      "Agile Methodologies",
+      "User Experience (UX)",
+      "Market Research",
+      "Product Strategy",
+      "Data Analysis",
+      "Stakeholder Management",
+      "JIRA",
+      "Wireframing",
+      "Prototyping"
+    ],
+    "connections": [
+      {
+        "userId": "1",
+        "status": "connected",
+        "createdAt": 1638360000
+      },
+      {
+        "userId": "3",
+        "status": "connected",
+        "createdAt": 1638360000
+      }
+    ],
+    "createdAt": 1638360000,
+    "updatedAt": 1638360000
+  },
+  {
+    "id": "3",
+    "email": "alex.johnson@example.com",
+    "password": "hashed_password",
+    "firstName": "Alex",
+    "lastName": "Johnson",
+    "headline": "Data Scientist at Analytics Corp",
+    "about": "Data scientist with expertise in machine learning and predictive modeling. I enjoy turning complex data into actionable insights that drive business decisions.",
+    "profilePicture": "https://randomuser.me/api/portraits/men/2.jpg",
+    "location": {
+      "country": "United States",
+      "city": "Seattle",
+      "state": "WA"
+    },
+    "experience": [
+      {
+        "id": "exp1",
+        "title": "Lead Data Scientist",
+        "companyName": "Analytics Corp",
+        "employmentType": "Full-time",
+        "location": "Seattle, WA",
+        "startDate": "2022-02-01",
+        "endDate": null,
+        "currentlyWorking": true,
+        "description": "Developing and implementing advanced machine learning models to solve complex business problems."
+      },
+      {
+        "id": "exp2",
+        "title": "Data Scientist",
+        "companyName": "Tech Giant Inc.",
+        "employmentType": "Full-time",
+        "location": "Seattle, WA",
+        "startDate": "2019-08-01",
+        "endDate": "2022-01-31",
+        "currentlyWorking": false,
+        "description": "Built predictive models to optimize marketing campaigns and improve customer engagement."
+      }
+    ],
+    "education": [
+      {
+        "id": "edu1",
+        "school": "Stanford University",
+        "degree": "Master of Science",
+        "fieldOfStudy": "Data Science",
+        "startDate": "2017-09-01",
+        "endDate": "2019-06-30",
+        "description": "Focused on machine learning algorithms and statistical modeling."
+      },
+      {
+        "id": "edu2",
+        "school": "University of Washington",
+        "degree": "Bachelor of Science",
+        "fieldOfStudy": "Statistics",
+        "startDate": "2013-09-01",
+        "endDate": "2017-05-31",
+        "description": "Minored in Computer Science."
+      }
+    ],
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Statistical Analysis",
+      "Data Visualization",
+      "SQL",
+      "R",
+      "TensorFlow",
+      "PyTorch",
+      "Natural Language Processing",
+      "Big Data Technologies"
+    ],
+    "connections": [
+      {
+        "userId": "1",
+        "status": "connected",
+        "createdAt": 1638360000
+      },
+      {
+        "userId": "2",
+        "status": "connected",
+        "createdAt": 1638360000
+      },
+      {
+        "userId": "4",
+        "status": "pending",
+        "createdAt": 1638360000
+      }
+    ],
+    "createdAt": 1638360000,
+    "updatedAt": 1638360000
+  },
+  {
+    "id": "4",
+    "email": "michael.brown@example.com",
+    "password": "hashed_password",
+    "firstName": "Michael",
+    "lastName": "Brown",
+    "headline": "Marketing Manager at Digital Marketing Pro",
+    "about": "Marketing professional specializing in digital marketing strategies. I help companies increase their online presence and drive customer engagement through innovative campaigns.",
+    "profilePicture": "https://randomuser.me/api/portraits/men/3.jpg",
+    "location": {
+      "country": "United States",
+      "city": "Chicago",
+      "state": "IL"
+    },
+    "experience": [
+      {
+        "id": "exp1",
+        "title": "Marketing Manager",
+        "companyName": "Digital Marketing Pro",
+        "employmentType": "Full-time",
+        "location": "Chicago, IL",
+        "startDate": "2021-01-01",
+        "endDate": null,
+        "currentlyWorking": true,
+        "description": "Developing and implementing comprehensive digital marketing strategies for B2B clients."
+      },
+      {
+        "id": "exp2",
+        "title": "Digital Marketing Specialist",
+        "companyName": "Media Agency LLC",
+        "employmentType": "Full-time",
+        "location": "Chicago, IL",
+        "startDate": "2018-07-01",
+        "endDate": "2020-12-31",
+        "currentlyWorking": false,
+        "description": "Managed social media campaigns and SEO strategies for various clients."
+      }
+    ],
+    "education": [
+      {
+        "id": "edu1",
+        "school": "Northwestern University",
+        "degree": "Bachelor of Arts",
+        "fieldOfStudy": "Marketing",
+        "startDate": "2014-09-01",
+        "endDate": "2018-05-31",
+        "description": "Focused on digital marketing and consumer behavior."
+      }
+    ],
+    "skills": [
+      "Digital Marketing",
+      "Social Media Marketing",
+      "Content Strategy",
+      "SEO/SEM",
+      "Google Analytics",
+      "Email Marketing",
+      "Marketing Automation",
+      "CRM",
+      "Adobe Creative Suite",
+      "Campaign Management"
+    ],
+    "connections": [],
+    "createdAt": 1638360000,
+    "updatedAt": 1638360000
+  },
+  {
+    "id": "5",
+    "email": "sarah.davis@example.com",
+    "password": "hashed_password",
+    "firstName": "Sarah",
+    "lastName": "Davis",
+    "headline": "UX/UI Designer at Design Studio",
+    "about": "Experienced UX/UI designer focused on creating intuitive and visually appealing digital experiences. I combine user research with creative design to build products that users love.",
+    "profilePicture": "https://randomuser.me/api/portraits/women/2.jpg",
+    "location": {
+      "country": "United States",
+      "city": "Los Angeles",
+      "state": "CA"
+    },
+    "experience": [
+      {
+        "id": "exp1",
+        "title": "Senior UX/UI Designer",
+        "companyName": "Design Studio",
+        "employmentType": "Full-time",
+        "location": "Los Angeles, CA",
+        "startDate": "2020-09-01",
+        "endDate": null,
+        "currentlyWorking": true,
+        "description": "Leading UX/UI design for mobile and web applications for various clients."
+      },
+      {
+        "id": "exp2",
+        "title": "UX Designer",
+        "companyName": "Creative Agency Inc.",
+        "employmentType": "Full-time",
+        "location": "San Diego, CA",
+        "startDate": "2017-03-01",
+        "endDate": "2020-08-31",
+        "currentlyWorking": false,
+        "description": "Designed user interfaces and conducted user research for various digital products."
+      }
+    ],
+    "education": [
+      {
+        "id": "edu1",
+        "school": "Rhode Island School of Design",
+        "degree": "Bachelor of Fine Arts",
+        "fieldOfStudy": "Graphic Design",
+        "startDate": "2013-09-01",
+        "endDate": "2017-05-31",
+        "description": "Specialized in digital interface design and user experience."
+      }
+    ],
+    "skills": [
+      "User Experience (UX) Design",
+      "User Interface (UI) Design",
+      "Wireframing",
+      "Prototyping",
+      "Figma",
+      "Adobe XD",
+      "Sketch",
+      "User Research",
+      "Visual Design",
+      "Design Thinking"
+    ],
+    "connections": [],
+    "createdAt": 1638360000,
+    "updatedAt": 1638360000
+  }
+]

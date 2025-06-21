@@ -1,0 +1,341 @@
+[
+  {
+    "id": "1",
+    "title": "Senior Frontend Developer",
+    "companyId": "1",
+    "location": "San Francisco, CA",
+    "type": "Full-time",
+    "description": "We are looking for a Senior Frontend Developer to join our growing team at Tech Solutions Inc. In this role, you will be responsible for developing and implementing user interface components using React.js and other frontend technologies.",
+    "requirements": [
+      "5+ years of experience in frontend development",
+      "Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model",
+      "Thorough understanding of React.js and its core principles",
+      "Experience with popular React.js workflows such as Redux",
+      "Familiarity with newer specifications of ECMAScript",
+      "Experience with data structure libraries such as Immutable.js",
+      "Knowledge of isomorphic React is a plus",
+      "Understanding of RESTful APIs",
+      "Knowledge of modern authorization mechanisms, such as JSON Web Token",
+      "Familiarity with modern frontend build pipelines and tools",
+      "Experience with common frontend development tools such as Babel, Webpack, NPM, etc."
+    ],
+    "salary": {
+      "min": 120000,
+      "max": 150000,
+      "currency": "USD"
+    },
+    "skills": [
+      "JavaScript",
+      "React",
+      "Redux",
+      "HTML5",
+      "CSS3",
+      "REST APIs",
+      "Git"
+    ],
+    "postedAt": 1651856400,
+    "applicants": []
+  },
+  {
+    "id": "2",
+    "title": "Data Scientist",
+    "companyId": "3",
+    "location": "Seattle, WA",
+    "type": "Full-time",
+    "description": "Analytics Corp is seeking a Data Scientist to join our team. In this role, you will work on complex data analysis and develop machine learning models to solve business problems and generate insights.",
+    "requirements": [
+      "Master's or PhD in Computer Science, Statistics, or related field",
+      "3+ years of experience in data science or related field",
+      "Strong programming skills in Python and R",
+      "Experience with machine learning frameworks such as TensorFlow, PyTorch, or scikit-learn",
+      "Proficiency in SQL and experience working with large datasets",
+      "Knowledge of statistical analysis and modeling techniques",
+      "Experience with data visualization tools",
+      "Excellent problem-solving and communication skills"
+    ],
+    "salary": {
+      "min": 110000,
+      "max": 140000,
+      "currency": "USD"
+    },
+    "skills": [
+      "Python",
+      "R",
+      "Machine Learning",
+      "SQL",
+      "Data Visualization",
+      "Statistical Analysis",
+      "TensorFlow"
+    ],
+    "postedAt": 1651770000,
+    "applicants": []
+  },
+  {
+    "id": "3",
+    "title": "Product Manager",
+    "companyId": "2",
+    "location": "New York, NY",
+    "type": "Full-time",
+    "description": "Innovate Labs is looking for a Product Manager to lead the development of our AI-powered products. You will work closely with engineering, design, and marketing teams to define product strategy and roadmap.",
+    "requirements": [
+      "Bachelor's degree in Computer Science, Business, or related field",
+      "3+ years of experience in product management, preferably in a technology company",
+      "Strong understanding of user-centered design principles",
+      "Experience with agile development methodologies",
+      "Excellent analytical and problem-solving skills",
+      "Strong communication and presentation skills",
+      "Ability to prioritize and make data-driven decisions"
+    ],
+    "salary": {
+      "min": 100000,
+      "max": 130000,
+      "currency": "USD"
+    },
+    "skills": [
+      "Product Management",
+      "Agile Methodologies",
+      "User Experience",
+      "Market Research",
+      "Product Strategy",
+      "Data Analysis",
+      "JIRA"
+    ],
+    "postedAt": 1651683600,
+    "applicants": []
+  },
+  {
+    "id": "4",
+    "title": "UX/UI Designer",
+    "companyId": "5",
+    "location": "Los Angeles, CA (Remote)",
+    "type": "Full-time",
+    "description": "Design Studio is seeking a UX/UI Designer to create intuitive and visually appealing user interfaces for web and mobile applications. You will collaborate with product managers and developers to create designs that meet business goals and user needs.",
+    "requirements": [
+      "Bachelor's degree in Design, HCI, or related field",
+      "3+ years of experience in UX/UI design",
+      "Strong portfolio demonstrating your design process and skills",
+      "Proficiency in design tools such as Figma, Sketch, or Adobe XD",
+      "Experience with wireframing and prototyping",
+      "Understanding of user research methods",
+      "Knowledge of design systems and accessibility standards",
+      "Excellent communication and collaboration skills"
+    ],
+    "salary": {
+      "min": 90000,
+      "max": 120000,
+      "currency": "USD"
+    },
+    "skills": [
+      "User Experience Design",
+      "User Interface Design",
+      "Wireframing",
+      "Prototyping",
+      "Figma",
+      "Sketch",
+      "User Research"
+    ],
+    "postedAt": 1651597200,
+    "applicants": []
+  },
+  {
+    "id": "5",
+    "title": "Digital Marketing Specialist",
+    "companyId": "4",
+    "location": "Chicago, IL",
+    "type": "Full-time",
+    "description": "Digital Marketing Pro is looking for a Digital Marketing Specialist to join our team. In this role, you will develop and implement digital marketing strategies for our clients, focusing on SEO, social media, and content marketing.",
+    "requirements": [
+      "Bachelor's degree in Marketing, Communications, or related field",
+      "2+ years of experience in digital marketing",
+      "Experience with SEO, SEM, and social media marketing",
+      "Knowledge of Google Analytics and other marketing tools",
+      "Experience with content creation and management",
+      "Strong analytical and problem-solving skills",
+      "Excellent communication and presentation skills"
+    ],
+    "salary": {
+      "min": 65000,
+      "max": 85000,
+      "currency": "USD"
+    },
+    "skills": [
+      "Digital Marketing",
+      "SEO/SEM",
+      "Social Media Marketing",
+      "Content Marketing",
+      "Google Analytics",
+      "Email Marketing",
+      "CRM"
+    ],
+    "postedAt": 1651510800,
+    "applicants": []
+  },
+  {
+    "id": "6",
+    "title": "Backend Developer",
+    "companyId": "1",
+    "location": "San Francisco, CA",
+    "type": "Full-time",
+    "description": "Tech Solutions Inc. is seeking a Backend Developer to join our engineering team. In this role, you will design and develop server-side applications and APIs using Node.js and other backend technologies.",
+    "requirements": [
+      "Bachelor's degree in Computer Science or related field",
+      "3+ years of experience in backend development",
+      "Strong proficiency in Node.js and Express.js",
+      "Experience with database design and ORM libraries",
+      "Knowledge of RESTful API design principles",
+      "Familiarity with cloud services (AWS, Azure, or GCP)",
+      "Understanding of security and data protection best practices"
+    ],
+    "salary": {
+      "min": 110000,
+      "max": 140000,
+      "currency": "USD"
+    },
+    "skills": [
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "RESTful APIs",
+      "SQL",
+      "AWS",
+      "Git"
+    ],
+    "postedAt": 1651424400,
+    "applicants": []
+  },
+  {
+    "id": "7",
+    "title": "AI Research Scientist",
+    "companyId": "8",
+    "location": "Austin, TX",
+    "type": "Full-time",
+    "description": "Future Technologies is looking for an AI Research Scientist to join our R&D team. In this role, you will conduct research in artificial intelligence and develop innovative solutions using machine learning and deep learning techniques.",
+    "requirements": [
+      "PhD in Computer Science, Artificial Intelligence, or related field",
+      "5+ years of experience in AI research",
+      "Strong background in machine learning and deep learning",
+      "Experience with neural networks and natural language processing",
+      "Proficiency in Python and AI frameworks such as TensorFlow or PyTorch",
+      "Publication record in top-tier conferences or journals",
+      "Excellent problem-solving and analytical skills"
+    ],
+    "salary": {
+      "min": 140000,
+      "max": 180000,
+      "currency": "USD"
+    },
+    "skills": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Deep Learning",
+      "Neural Networks",
+      "Natural Language Processing",
+      "Python",
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "postedAt": 1651338000,
+    "applicants": []
+  },
+  {
+    "id": "8",
+    "title": "Financial Analyst",
+    "companyId": "6",
+    "location": "New York, NY",
+    "type": "Full-time",
+    "description": "Global Finance Group is seeking a Financial Analyst to join our team. In this role, you will conduct financial analysis, prepare reports, and provide recommendations to support business decisions and investment strategies.",
+    "requirements": [
+      "Bachelor's degree in Finance, Accounting, or related field",
+      "2+ years of experience in financial analysis",
+      "Strong analytical and quantitative skills",
+      "Proficiency in financial modeling and forecasting",
+      "Experience with financial software and tools",
+      "Knowledge of financial markets and investment principles",
+      "Excellent communication and presentation skills"
+    ],
+    "salary": {
+      "min": 80000,
+      "max": 100000,
+      "currency": "USD"
+    },
+    "skills": [
+      "Financial Analysis",
+      "Financial Modeling",
+      "Forecasting",
+      "Excel",
+      "Accounting",
+      "Budgeting",
+      "Data Analysis"
+    ],
+    "postedAt": 1651251600,
+    "applicants": []
+  },
+  {
+    "id": "9",
+    "title": "Healthcare Software Engineer",
+    "companyId": "7",
+    "location": "Boston, MA",
+    "type": "Full-time",
+    "description": "Health Innovations Inc. is looking for a Healthcare Software Engineer to develop innovative software solutions for healthcare providers. In this role, you will work on applications that improve patient care and operational efficiency.",
+    "requirements": [
+      "Bachelor's degree in Computer Science or related field",
+      "3+ years of experience in software development",
+      "Experience with healthcare software or systems",
+      "Proficiency in Java, C#, or similar languages",
+      "Knowledge of database design and SQL",
+      "Familiarity with healthcare standards such as HL7 or FHIR",
+      "Understanding of HIPAA compliance and data security"
+    ],
+    "salary": {
+      "min": 100000,
+      "max": 130000,
+      "currency": "USD"
+    },
+    "skills": [
+      "Java",
+      "C#",
+      "SQL",
+      "Healthcare IT",
+      "HL7",
+      "FHIR",
+      "HIPAA"
+    ],
+    "postedAt": 1651165200,
+    "applicants": []
+  },
+  {
+    "id": "10",
+    "title": "DevOps Engineer",
+    "companyId": "8",
+    "location": "Remote",
+    "type": "Full-time",
+    "description": "Future Technologies is seeking a DevOps Engineer to join our team. In this role, you will be responsible for building and maintaining CI/CD pipelines, automating infrastructure deployment, and ensuring the reliability and security of our systems.",
+    "requirements": [
+      "Bachelor's degree in Computer Science or related field",
+      "3+ years of experience in DevOps or system administration",
+      "Experience with CI/CD tools such as Jenkins, GitLab CI, or GitHub Actions",
+      "Proficiency in infrastructure as code tools such as Terraform or CloudFormation",
+      "Experience with containerization technologies such as Docker and Kubernetes",
+      "Knowledge of cloud platforms (AWS, Azure, or GCP)",
+      "Understanding of security best practices and compliance requirements"
+    ],
+    "salary": {
+      "min": 110000,
+      "max": 140000,
+      "currency": "USD"
+    },
+    "skills": [
+      "DevOps",
+      "CI/CD",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "AWS",
+      "Linux",
+      "Bash",
+      "Python"
+    ],
+    "postedAt": 1651078800,
+    "applicants": []
+  }
+]

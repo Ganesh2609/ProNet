@@ -1,0 +1,213 @@
+[
+  {
+    "id": "1",
+    "userId": "1",
+    "content": "Excited to share that our team at Tech Solutions Inc. just launched a new feature that improves load times by 40%! This was a great collaborative effort across our engineering and product teams. #WebPerformance #FrontendDevelopment",
+    "image": null,
+    "likes": [
+      "2",
+      "3",
+      "5"
+    ],
+    "comments": [
+      {
+        "id": "101",
+        "userId": "2",
+        "content": "Great work! Can't wait to hear more about the technical details.",
+        "createdAt": 1651942800
+      },
+      {
+        "id": "102",
+        "userId": "3",
+        "content": "Impressive results! Would love to learn about the approach you took.",
+        "createdAt": 1651943700
+      }
+    ],
+    "createdAt": 1651942800
+  },
+  {
+    "id": "2",
+    "userId": "2",
+    "content": "Just published an article on product management best practices. Check it out and let me know your thoughts! #ProductManagement #Leadership",
+    "image": "./frontend/public/assets/images/ad-placeholder.jpg",
+    "likes": [
+      "1",
+      "4"
+    ],
+    "comments": [
+      {
+        "id": "201",
+        "userId": "1",
+        "content": "Great insights, Jane! I especially liked the section on stakeholder management.",
+        "createdAt": 1651856400
+      }
+    ],
+    "createdAt": 1651856400
+  },
+  {
+    "id": "3",
+    "userId": "3",
+    "content": "Attended an amazing conference on AI and machine learning this weekend. The advancements in natural language processing are truly remarkable. Excited to apply some of these new techniques to our projects at Analytics Corp. #AI #MachineLearning #NLP",
+    "image": null,
+    "likes": [
+      "1",
+      "2",
+      "4"
+    ],
+    "comments": [],
+    "createdAt": 1651770000
+  },
+  {
+    "id": "4",
+    "userId": "4",
+    "content": "Thrilled to announce that Digital Marketing Pro has been recognized as one of the top digital marketing agencies in Chicago! Thank you to our amazing team and clients for making this possible. #DigitalMarketing #AgencyLife",
+    "image": "./frontend/public/assets/images/ad-placeholder.jpg",
+    "likes": [
+      "2",
+      "5"
+    ],
+    "comments": [
+      {
+        "id": "401",
+        "userId": "5",
+        "content": "Congratulations! Well-deserved recognition for your excellent work.",
+        "createdAt": 1651683600
+      }
+    ],
+    "createdAt": 1651683600
+  },
+  {
+    "id": "5",
+    "userId": "5",
+    "content": "Just wrapped up a UX redesign project for a healthcare app that helps patients manage their medications. It's incredibly rewarding to work on projects that make a positive impact on people's lives. #UXDesign #Healthcare #UserCenteredDesign",
+    "image": "./frontend/public/assets/images/ad-placeholder.jpg",
+    "likes": [
+      "1",
+      "2",
+      "3"
+    ],
+    "comments": [
+      {
+        "id": "501",
+        "userId": "1",
+        "content": "This looks amazing, Sarah! The interface is so clean and intuitive.",
+        "createdAt": 1651597200
+      },
+      {
+        "id": "502",
+        "userId": "3",
+        "content": "Great work! Would love to hear more about the user research behind this design.",
+        "createdAt": 1651598100
+      }
+    ],
+    "createdAt": 1651597200
+  },
+  {
+    "id": "6",
+    "userId": "1",
+    "content": "I recently transitioned from Angular to React for frontend development, and I'm really enjoying the component-based architecture and the robust ecosystem. Any other developers here who have made a similar switch? What was your experience? #React #Angular #WebDevelopment",
+    "image": null,
+    "likes": [
+      "3"
+    ],
+    "comments": [
+      {
+        "id": "601",
+        "userId": "3",
+        "content": "I made the switch last year and had a similar experience. The learning curve was worth it for the performance benefits and developer experience.",
+        "createdAt": 1651510800
+      }
+    ],
+    "createdAt": 1651510800
+  },
+  {
+    "id": "7",
+    "userId": "2",
+    "content": "Just finished reading 'Inspired' by Marty Cagan - one of the best books on product management I've come across. Highly recommend it to anyone in product or considering a career in product management. #ProductManagement #BookRecommendation",
+    "image": null,
+    "likes": [
+      "1",
+      "4",
+      "5"
+    ],
+    "comments": [
+      {
+        "id": "701",
+        "userId": "4",
+        "content": "Thanks for the recommendation! Just added it to my reading list.",
+        "createdAt": 1651424400
+      }
+    ],
+    "createdAt": 1651424400
+  },
+  {
+    "id": "8",
+    "userId": "3",
+    "content": "Excited to share that I'll be speaking at the Data Science Summit next month on 'Practical Applications of Natural Language Processing in Business Intelligence'. Looking forward to connecting with fellow data enthusiasts! #DataScience #NLP #Conference",
+    "image": null,
+    "likes": [
+      "2",
+      "1"
+    ],
+    "comments": [
+      {
+        "id": "801",
+        "userId": "1",
+        "content": "Congratulations, Alex! Wish I could attend - please share your slides after the talk.",
+        "createdAt": 1651338000
+      },
+      {
+        "id": "802",
+        "userId": "2",
+        "content": "This sounds fascinating! Will the talk be recorded?",
+        "createdAt": 1651338900
+      }
+    ],
+    "createdAt": 1651338000
+  },
+  {
+    "id": "9",
+    "userId": "4",
+    "content": "After years of focusing on paid advertising, we're seeing more clients achieve great results with content marketing and SEO. It's a longer-term strategy, but the ROI can be much higher. Has anyone else noticed this shift? #ContentMarketing #SEO #DigitalMarketing",
+    "image": null,
+    "likes": [
+      "2",
+      "5"
+    ],
+    "comments": [
+      {
+        "id": "901",
+        "userId": "5",
+        "content": "Absolutely! We've been focusing more on creating high-quality content that provides real value to users, and it's been paying off in terms of engagement and conversion.",
+        "createdAt": 1651251600
+      }
+    ],
+    "createdAt": 1651251600
+  },
+  {
+    "id": "10",
+    "userId": "5",
+    "content": "Design tip: Don't underestimate the importance of whitespace in your UI designs. It improves readability, helps users focus on important elements, and gives your design a more polished look. #UIDesign #DesignTips #Whitespace",
+    "image": "./frontend/public/assets/images/ad-placeholder.jpg",
+    "likes": [
+      "1",
+      "2",
+      "4"
+    ],
+    "comments": [
+      {
+        "id": "1001",
+        "userId": "1",
+        "content": "Great reminder! I often have to convince clients that 'empty' space is actually a crucial part of the design.",
+        "createdAt": 1651165200
+      },
+      {
+        "id": "1002",
+        "userId": "4",
+        "content": "So true! Whitespace is one of those design elements that seems simple but can make a huge difference in the user experience.",
+        "createdAt": 1651166100
+      }
+    ],
+    "createdAt": 1651165200
+  }
+]

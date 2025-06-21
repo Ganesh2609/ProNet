@@ -1,0 +1,80 @@
+linkedin-clone/
+├── frontend/
+│   ├── public/
+│   │   ├── index.html
+│   │   ├── favicon.ico
+│   │   └── assets/
+│   │       ├── images/
+│   │       │   └── default-profile.png
+│   │       └── icons/
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── common/
+│   │   │   │   ├── Navbar.js
+│   │   │   │   ├── Footer.js
+│   │   │   │   └── Sidebar.js
+│   │   │   ├── profile/
+│   │   │   │   ├── ProfileHeader.js
+│   │   │   │   ├── Experience.js
+│   │   │   │   ├── Education.js
+│   │   │   │   ├── Skills.js
+│   │   │   │   └── ProfileEdit.js
+│   │   │   ├── feed/
+│   │   │   │   ├── PostItem.js
+│   │   │   │   ├── CreatePost.js
+│   │   │   │   └── NewsFeed.js
+│   │   │   ├── network/
+│   │   │   │   ├── ConnectionItem.js
+│   │   │   │   ├── ConnectionRequests.js
+│   │   │   │   └── Recommendations.js
+│   │   │   ├── jobs/
+│   │   │   │   ├── JobItem.js
+│   │   │   │   ├── JobSearch.js
+│   │   │   │   └── ApplicationTracker.js
+│   │   │   └── messaging/
+│   │   │       ├── MessageList.js
+│   │   │       ├── Conversation.js
+│   │   │       └── MessageInput.js
+│   │   ├── pages/
+│   │   │   ├── HomePage.js
+│   │   │   ├── ProfilePage.js
+│   │   │   ├── NetworkPage.js
+│   │   │   ├── JobsPage.js
+│   │   │   └── MessagingPage.js
+│   │   ├── services/
+│   │   │   ├── api.js
+│   │   │   ├── auth.js
+│   │   │   └── localStorage.js
+│   │   ├── styles/
+│   │   │   ├── global.css
+│   │   │   ├── navbar.css
+│   │   │   ├── profile.css
+│   │   │   ├── feed.css
+│   │   │   ├── network.css
+│   │   │   ├── jobs.css
+│   │   │   └── messaging.css
+│   │   ├── utils/
+│   │   │   ├── formatDate.js
+│   │   │   └── constants.js
+│   │   ├── App.js
+│   │   └── index.js
+│   ├── package.json
+│   └── README.md
+└── backend/
+    ├── app.py
+    ├── routes/
+    │   ├── user_routes.py
+    │   ├── connection_routes.py
+    │   ├── job_routes.py
+    │   ├── feed_routes.py
+    │   └── message_routes.py
+    ├── data/
+    │   ├── users.json
+    │   ├── companies.json
+    │   ├── jobs.json
+    │   ├── posts.json
+    │   └── messages.json
+    ├── utils/
+    │   └── helpers.py
+    ├── requirements.txt
+    └── README.md

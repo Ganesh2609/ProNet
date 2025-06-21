@@ -1,0 +1,122 @@
+{
+  "1": {
+    "id": "1",
+    "name": "Tech Solutions Inc.",
+    "industry": "Information Technology",
+    "size": "201-500 employees",
+    "description": "A leading provider of enterprise software solutions and IT services, specializing in digital transformation and cloud solutions.",
+    "logo": "https://ui-avatars.com/api/?name=Tech+Solutions&background=0D8ABC&color=fff",
+    "website": "https://techsolutions-example.com",
+    "headquarters": {
+      "country": "United States",
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "founded": 2005
+  },
+  "2": {
+    "id": "2",
+    "name": "Innovate Labs",
+    "industry": "Software Development",
+    "size": "51-200 employees",
+    "description": "A tech startup focused on developing innovative AI-powered solutions for businesses across various industries.",
+    "logo": "https://ui-avatars.com/api/?name=Innovate+Labs&background=5F9EA0&color=fff",
+    "website": "https://innovatelabs-example.com",
+    "headquarters": {
+      "country": "United States",
+      "city": "New York",
+      "state": "NY"
+    },
+    "founded": 2015
+  },
+  "3": {
+    "id": "3",
+    "name": "Analytics Corp",
+    "industry": "Data Analytics",
+    "size": "501-1000 employees",
+    "description": "A data analytics company providing business intelligence solutions to help organizations make data-driven decisions.",
+    "logo": "https://ui-avatars.com/api/?name=Analytics+Corp&background=4682B4&color=fff",
+    "website": "https://analyticscorp-example.com",
+    "headquarters": {
+      "country": "United States",
+      "city": "Seattle",
+      "state": "WA"
+    },
+    "founded": 2010
+  },
+  "4": {
+    "id": "4",
+    "name": "Digital Marketing Pro",
+    "industry": "Marketing & Advertising",
+    "size": "11-50 employees",
+    "description": "A digital marketing agency specializing in comprehensive marketing strategies for businesses looking to increase their online presence.",
+    "logo": "https://ui-avatars.com/api/?name=Digital+Marketing&background=20B2AA&color=fff",
+    "website": "https://digitalmarketingpro-example.com",
+    "headquarters": {
+      "country": "United States",
+      "city": "Chicago",
+      "state": "IL"
+    },
+    "founded": 2012
+  },
+  "5": {
+    "id": "5",
+    "name": "Design Studio",
+    "industry": "Design",
+    "size": "11-50 employees",
+    "description": "A creative design agency specializing in UX/UI design, branding, and web development for startups and established businesses.",
+    "logo": "https://ui-avatars.com/api/?name=Design+Studio&background=FF6347&color=fff",
+    "website": "https://designstudio-example.com",
+    "headquarters": {
+      "country": "United States",
+      "city": "Los Angeles",
+      "state": "CA"
+    },
+    "founded": 2014
+  },
+  "6": {
+    "id": "6",
+    "name": "Global Finance Group",
+    "industry": "Financial Services",
+    "size": "1001-5000 employees",
+    "description": "A leading financial services company providing investment, banking, and advisory services to individual and institutional clients worldwide.",
+    "logo": "https://ui-avatars.com/api/?name=Global+Finance&background=483D8B&color=fff",
+    "website": "https://globalfinance-example.com",
+    "headquarters": {
+      "country": "United States",
+      "city": "New York",
+      "state": "NY"
+    },
+    "founded": 1995
+  },
+  "7": {
+    "id": "7",
+    "name": "Health Innovations Inc.",
+    "industry": "Healthcare",
+    "size": "5001-10000 employees",
+    "description": "A healthcare technology company developing innovative solutions to improve patient care and operational efficiency in healthcare organizations.",
+    "logo": "https://ui-avatars.com/api/?name=Health+Innovations&background=2E8B57&color=fff",
+    "website": "https://healthinnovations-example.com",
+    "headquarters": {
+      "country": "United States",
+      "city": "Boston",
+      "state": "MA"
+    },
+    "founded": 2000
+  },
+  "8": {
+    "id": "8",
+    "name": "Future Technologies",
+    "industry": "Information Technology",
+    "size": "1001-5000 employees",
+    "description": "A technology company specializing in cutting-edge technologies including artificial intelligence, blockchain, and IoT solutions.",
+    "logo": "https://ui-avatars.com/api/?name=Future+Tech&background=6A5ACD&color=fff",
+    "website": "https://futuretech-example.com",
+    "headquarters": {
+      "country": "United States",
+      "city": "Austin",
+      "state": "TX"
+    },
+    "founded": 2008
+  }
+}

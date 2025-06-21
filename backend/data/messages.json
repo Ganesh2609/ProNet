@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "senderId": "1",
+    "receiverId": "2",
+    "content": "Hi Jane, I saw your article on product management best practices. I was wondering if you'd be interested in giving a talk to our engineering team about effective collaboration between product and engineering?",
+    "createdAt": 1651942800,
+    "read": true
+  },
+  {
+    "id": "2",
+    "senderId": "2",
+    "receiverId": "1",
+    "content": "Hi John, thanks for reaching out! I'd be happy to give a talk to your team. When were you thinking of scheduling it?",
+    "createdAt": 1651943700,
+    "read": true
+  },
+  {
+    "id": "3",
+    "senderId": "1",
+    "receiverId": "2",
+    "content": "Great! We're thinking of next Wednesday at 2 PM. Would that work for you?",
+    "createdAt": 1651944600,
+    "read": true
+  },
+  {
+    "id": "4",
+    "senderId": "2",
+    "receiverId": "1",
+    "content": "Wednesday at 2 PM works perfectly for me. Do you have any specific topics you'd like me to focus on?",
+    "createdAt": 1651945500,
+    "read": true
+  },
+  {
+    "id": "5",
+    "senderId": "1",
+    "receiverId": "3",
+    "content": "Hi Alex, I saw your post about the AI conference. I'm working on a machine learning project and would love to get your insights. Do you have time for a coffee chat sometime next week?",
+    "createdAt": 1651856400,
+    "read": true
+  },
+  {
+    "id": "6",
+    "senderId": "3",
+    "receiverId": "1",
+    "content": "Hey John, good to hear from you! I'd be happy to chat about your ML project. How about Monday afternoon?",
+    "createdAt": 1651857300,
+    "read": true
+  },
+  {
+    "id": "7",
+    "senderId": "1",
+    "receiverId": "3",
+    "content": "Monday afternoon works for me. How about 3 PM at the coffee shop near your office?",
+    "createdAt": 1651858200,
+    "read": true
+  },
+  {
+    "id": "8",
+    "senderId": "3",
+    "receiverId": "1",
+    "content": "Perfect! See you at 3 PM on Monday. Looking forward to hearing about your project.",
+    "createdAt": 1651859100,
+    "read": true
+  },
+  {
+    "id": "9",
+    "senderId": "2",
+    "receiverId": "3",
+    "content": "Hi Alex, I'm working on a product that involves some data analysis and machine learning components. I was wondering if you'd be open to consulting on this project?",
+    "createdAt": 1651770000,
+    "read": true
+  },
+  {
+    "id": "10",
+    "senderId": "3",
+    "receiverId": "2",
+    "content": "Hi Jane, I'd definitely be interested in consulting on your project. Can you share more details about what you're working on?",
+    "createdAt": 1651770900,
+    "read": true
+  },
+  {
+    "id": "11",
+    "senderId": "4",
+    "receiverId": "1",
+    "content": "Hello John, I came across your profile and noticed your expertise in web development. My company is looking for someone with your skills for a short-term project. Would you be interested in discussing it?",
+    "createdAt": 1651683600,
+    "read": false
+  },
+  {
+    "id": "12",
+    "senderId": "5",
+    "receiverId": "1",
+    "content": "Hi John, I'm reaching out because I'm looking for a frontend developer to collaborate with on a UX/UI project. Would you be open to discussing a potential partnership?",
+    "createdAt": 1651597200,
+    "read": false
+  }
+]
